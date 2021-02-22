@@ -22,6 +22,7 @@ export default function App() {
     setArr1(x);
     setGameOver(false);
     setResult("");
+    setTurn("X");
   }
 
   return (
