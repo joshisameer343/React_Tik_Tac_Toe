@@ -1,0 +1,19 @@
+.turn {
+  font-size: 30px;
+}
+
+.result {
+  font-size: 40px;
+  color: green;
+}
+
+.res {
+  width: 100px;
+  height: 40px;
+  background-color: red;
+  border: 0px;
+  border-radius: 7px;
+  color: white;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}

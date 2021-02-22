@@ -1,0 +1,5 @@
+.gridrow {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  width: 300px;
+}
